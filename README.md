@@ -4,7 +4,7 @@
 
 ### Computer Science Student | Problem Solver | Future Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Learning+by+Building;Data+Structures+%26+Algorithms;Software+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Learning+by+Building;Data+Structures+%26+Algorithms;Software+Engineering;Open+Source+Contributor" alt="typing"/>
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-🎓 3rd Year CSE Student
+🎓 3rd Year Computer Science Student
 
-💻 Passionate about Software Development and Problem Solving
+💻 Passionate about software development and problem solving.
 
 📚 Currently learning and improving in:
 
@@ -53,7 +53,7 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true)
 
