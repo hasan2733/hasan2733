@@ -4,7 +4,7 @@
 
 ### Computer Science Student | Problem Solver | Future Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Learning+by+Building;Data+Structures+%26+Algorithms;Software+Engineering;Open+Source+Contributor" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Learning+by+Building;Data+Structures+%26+Algorithms;Software+Engineering;Open+Source" alt="typing svg" />
 
 </div>
 
