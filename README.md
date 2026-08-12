@@ -55,23 +55,11 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=hasan2733&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hasan2733&theme=tokyonight&hide_border=true)
 
 ---
 
