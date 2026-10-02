@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abidhasan27.me-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://abidhasan27.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abid_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abid-hasan-592083282)
-[![Email](https://img.shields.io/badge/Email-abidhasan27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abidhasan27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abidhasan27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abid.hasan.tng@gmail.com)
 
 </div>
 
