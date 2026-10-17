@@ -4,7 +4,7 @@
 
 ### Final Year Computer Science Student | Problem Solver | Software Engineer in Progress
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Final+Year+Student;Building+Real+World+Projects;Data+Structures+%26+Algorithms;Software+Engineering+Mindset" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Final+Year+Student;Building+Real+World+Projects;Data+Struc[...]" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abidhasan27.me-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://abidhasan27.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abid_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abid-hasan-592083282)
@@ -68,7 +68,13 @@ A front-end web application prototype for a campus and community lost-and-found 
 
 **Repository:** [FindIt](https://github.com/hasan2733/FindIt)
 
-### 3. Movie Ticket Management System
+### 3. AnoterPanicAttack
+A web application (live demo) — added to showcase the project.
+
+- Live Demo: [anoterpanicattack.web.app](https://anoterpanicattack.web.app)
+
+
+### 4. Movie Ticket Management System
 A JavaFX-based desktop application for movie ticket booking and management.
 
 - User-friendly interface for browsing and booking movies
@@ -80,7 +86,7 @@ A JavaFX-based desktop application for movie ticket booking and management.
 
 **Repository:** [Movie Ticket Management System](https://github.com/hasan2733/movie_ticket_management_system)
 
-### 4. Database Design
+### 5. Database Design
 A structured repository covering database design fundamentals, normalization, ER modeling, SQL practices, and schema design.
 
 - Database architecture concepts
@@ -89,7 +95,7 @@ A structured repository covering database design fundamentals, normalization, ER
 
 **Repository:** [Database Design](https://github.com/hasan2733/Database-Design)
 
-### 5. DSA Practice Problems
+### 6. DSA Practice Problems
 A dedicated repository for solving algorithmic problems and improving problem-solving ability.
 
 - Data structures and algorithms practice
