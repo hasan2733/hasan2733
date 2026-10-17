@@ -68,11 +68,34 @@ A front-end web application prototype for a campus and community lost-and-found 
 
 **Repository:** [FindIt](https://github.com/hasan2733/FindIt)
 
-### 3. AnoterPanicAttack
-A web application (live demo) — added to showcase the project.
+### 3. Panic Support Website — AnotherPanicAttack
+A personal mental-health support web app for managing panic symptoms, building calm habits, and practicing CBT-inspired coping strategies. The app focuses on quick, practical tools to help users during and after panic episodes.
 
-- Live Demo: [anoterpanicattack.web.app](https://anoterpanicattack.web.app)
+- Live Demo: [anotherpanicattack.web.app](https://anotherpanicattack.web.app)
+- Repository: [panic-support-website](https://github.com/hasan2733/panic-support-website)
 
+Key features:
+
+- Email/password authentication (Firebase)
+- Dashboard with quick actions and daily support prompts
+- Panic Mode: calming full-screen experience with breathing guidance, grounding exercises, and post-episode logging
+- Thought Journal for CBT-style reflection and tracking
+- Practice Studio with guided techniques and meditations
+- Learning Library with curated coping resources
+- Episode Tracker for symptom history and recovery log
+- Optional Faith Corner (verified, sourced passages)
+- AI-powered reflection chat (uses the user's OpenRouter key)
+- Settings for appearance, safety plan, data export, and cleanup
+
+Tech stack:
+
+- React 19, TypeScript, Vite, Tailwind CSS
+- Firebase Authentication + Firestore for per-user data
+
+Notes:
+
+- Safety: this is a support tool, not medical advice. It includes a clear safety notice and is designed for personal use.
+- Privacy & Security: user data is stored under users/{uid} in Firestore; deploy and verify Firestore rules before public use.
 
 ### 4. Movie Ticket Management System
 A JavaFX-based desktop application for movie ticket booking and management.
