@@ -1,14 +1,22 @@
 <div align="center">
 
-# 👋 Hey, I'm Abid Hasan
+# 👋 Hi, I'm Abid Hasan
 
-### Final Year Computer Science Student | Problem Solver | Software Engineer in Progress
+### Computer Science Student · Problem Solver · Software Engineer in Progress
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Final+Year+Student;Building+Real+World+Projects;Data+Struc[...]" />
+<a href="https://abidhasan27.me">
+  <img src="https://img.shields.io/badge/Portfolio-abidhasan27.me-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/abid-hasan-592083282">
+  <img src="https://img.shields.io/badge/LinkedIn-Abid_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:abid.hasan.tng@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abidhasan27.me-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://abidhasan27.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abid_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abid-hasan-592083282)
-[![Email](https://img.shields.io/badge/Email-abid.hasan.tng%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abid.hasan.tng@gmail.com)
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+practical+software;Learning+through+hands-on+development;Turning+ideas+into+working+projects" alt="Typing introduction">
 
 </div>
 
@@ -16,120 +24,73 @@
 
 ## 🚀 About Me
 
-🎓 Final-year Computer Science student with a strong interest in software engineering, problem solving, AI, and building projects that create real impact.
+I'm a final-year Computer Science student interested in software engineering, problem solving, artificial intelligence, and building technology that creates practical value.
 
-💻 I enjoy learning through hands-on development, building practical systems, and improving my understanding of how technology works in the real world.
+I learn by building: from web applications and database systems to embedded IoT prototypes. My goal is to grow into a well-rounded software engineer with strong technical foundations, product awareness, and consistent execution.
 
-📚 Current focus areas:
+### Current interests
 
-* Data Structures & Algorithms
-* Database Design & SQL
-* Web Development
-* Software Engineering
-* Artificial Intelligence
-* Computer Vision & Machine Learning basics
-* Embedded Systems & IoT
-
-🎯 My goal is to keep growing as a software engineer by combining technical depth, product thinking, and consistent execution.
-
----
+- Data Structures & Algorithms
+- Web and full-stack development
+- Database design and SQL
+- Software engineering practices
+- Artificial Intelligence and Machine Learning
+- Computer Vision
+- Embedded Systems and IoT
 
 ## 🌐 Portfolio
 
-Visit my personal portfolio: https://abidhasan27.me
-
-This portfolio showcases my work, learning journey, and projects in a clean and professional way.
-
----
+Explore my work and learning journey at **[abidhasan27.me](https://abidhasan27.me)**.
 
 ## 🧩 Featured Projects
 
-### 1. SafeTrail
-An embedded systems and IoT safety project focused on emergency response and personal protection.
+### [SafeTrail](https://github.com/hasan2733/SafeTrail)
 
-- ESP32-based wearable safety prototype
+An ESP32-based embedded safety prototype focused on emergency response and personal protection.
+
 - GPS tracking and geofencing concepts
-- Fall detection and motion-based monitoring
+- Fall detection and motion monitoring
 - Cloud data logging and emergency alert ideas
-- Strong focus on practical hardware + software integration
+- Hardware and software integration
 
-**Repository:** [SafeTrail](https://github.com/hasan2733/SafeTrail)
+### [FindIt](https://github.com/hasan2733/FindIt) · [Live demo](https://findit-lost-n-found.vercel.app/)
 
-### 2. FindIt - Campus Lost & Found Platform
-A front-end web application prototype for a campus and community lost-and-found platform.
+A front-end lost-and-found platform for campus and community use.
 
-- Report lost or found items easily
-- Explore and search for item matches
-- Interactive UI with filtering and search functionality
-- Simulated matching logic and claims workflow
-- Safe exchange guidance for secure meetups
-- Built with vanilla JavaScript, HTML5, CSS3
-- Live Demo: [findit-lost-n-found.vercel.app](https://findit-lost-n-found.vercel.app/)
+- Lost and found item reporting
+- Search, filtering, and simulated matching
+- Claims workflow and safe exchange guidance
+- Built with HTML5, CSS3, and vanilla JavaScript
 
-**Repository:** [FindIt](https://github.com/hasan2733/FindIt)
+### [AnotherPanicAttack](https://github.com/hasan2733/panic-support-website) · [Live demo](https://anotherpanicattack.web.app/)
 
-### 3. Panic Support Website — AnotherPanicAttack
-A personal mental-health support web app for managing panic symptoms, building calm habits, and practicing CBT-inspired coping strategies. The app focuses on quick, practical tools to help users during and after panic episodes.
+A personal support web app with practical tools for managing panic symptoms and building calm habits.
 
-- Live Demo: [anotherpanicattack.web.app](https://anotherpanicattack.web.app)
-- Repository: [panic-support-website](https://github.com/hasan2733/panic-support-website)
+- Firebase authentication and per-user data
+- Breathing, grounding, and reflection tools
+- Thought journal, learning library, and episode tracker
+- React, TypeScript, Vite, Tailwind CSS, and Firestore
 
-Key features:
+> This is a personal support tool, not medical advice. If you are in danger or need urgent help, contact local emergency services or a qualified professional.
 
-- Email/password authentication (Firebase)
-- Dashboard with quick actions and daily support prompts
-- Panic Mode: calming full-screen experience with breathing guidance, grounding exercises, and post-episode logging
-- Thought Journal for CBT-style reflection and tracking
-- Practice Studio with guided techniques and meditations
-- Learning Library with curated coping resources
-- Episode Tracker for symptom history and recovery log
-- Optional Faith Corner (verified, sourced passages)
-- AI-powered reflection chat (uses the user's OpenRouter key)
-- Settings for appearance, safety plan, data export, and cleanup
+### [Movie Ticket Management System](https://github.com/hasan2733/movie_ticket_management_system)
 
-Tech stack:
+A JavaFX desktop application for movie booking and administration.
 
-- React 19, TypeScript, Vite, Tailwind CSS
-- Firebase Authentication + Firestore for per-user data
+- Movie and showtime management
+- QR-code ticket verification
+- PDF booking export
+- MySQL database integration
 
-Notes:
+### [Database Design](https://github.com/hasan2733/Database-Design)
 
-- Safety: this is a support tool, not medical advice. It includes a clear safety notice and is designed for personal use.
-- Privacy & Security: user data is stored under users/{uid} in Firestore; deploy and verify Firestore rules before public use.
+Database design practice covering normalization, ER modeling, relational schemas, and SQL.
 
-### 4. Movie Ticket Management System
-A JavaFX-based desktop application for movie ticket booking and management.
+### [DSA Practice Problems](https://github.com/hasan2733/DSA_Practice_Problems)
 
-- User-friendly interface for browsing and booking movies
-- Powerful admin panel for managing movies and showtimes
-- QR code generation for ticket verification
-- PDF export for booking records
-- MySQL database with efficient schema design
-- Demonstrates Java OOP, JavaFX UI, and database integration
+Algorithm and data-structure practice focused on problem solving, optimization, and interview preparation.
 
-**Repository:** [Movie Ticket Management System](https://github.com/hasan2733/movie_ticket_management_system)
-
-### 5. Database Design
-A structured repository covering database design fundamentals, normalization, ER modeling, SQL practices, and schema design.
-
-- Database architecture concepts
-- Real-world relational modeling
-- Useful for understanding scalable application design
-
-**Repository:** [Database Design](https://github.com/hasan2733/Database-Design)
-
-### 6. DSA Practice Problems
-A dedicated repository for solving algorithmic problems and improving problem-solving ability.
-
-- Data structures and algorithms practice
-- Interview-focused preparation
-- Logic building and optimization mindset
-
-**Repository:** [DSA Practice Problems](https://github.com/hasan2733/DSA_Practice_Problems)
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -137,64 +98,47 @@ A dedicated repository for solving algorithmic problems and improving problem-so
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
+### Web, Backend & Desktop
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Tools
-
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Tools & Data
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Database & Concepts
+## 📊 GitHub Activity
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<div align="center">
 
-### Core Strengths
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true" alt="Abid's GitHub statistics">
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true" alt="Abid's most used languages">
 
-- Data Structures & Algorithms
-- Problem Solving & Optimization
-- Database Design & SQL
-- API Development
-- Responsive Web Design
-- Desktop Application Development (JavaFX)
-- System Design Fundamentals
-- Debugging & Optimization
-- AI/ML Learning & Exploration
+<br>
 
----
+<img src="https://streak-stats.demolab.com?user=hasan2733&theme=tokyonight&hide_border=true" alt="Abid's GitHub streak">
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hasan2733&theme=tokyonight&hide_border=true)
-
----
+</div>
 
 ## 🎯 Current Focus
 
-* Complete final-year studies successfully
-* Build more impactful full-stack projects
-* Strengthen backend and database skills
-* Improve DSA and interview readiness
-* Explore AI, ML, and product-driven engineering
-* Contribute to open-source projects
-
----
+- Completing my final-year studies
+- Building more impactful full-stack projects
+- Strengthening backend and database skills
+- Improving DSA and interview readiness
+- Exploring AI, ML, and product-driven engineering
+- Contributing to open-source projects
 
 ## 💭 Developer Mindset
 
@@ -207,12 +151,10 @@ while (!success) {
 }
 ```
 
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-"Consistency beats talent when talent doesn't work hard."
+**Consistency beats talent when talent doesn't work consistently.**
 
 </div>
