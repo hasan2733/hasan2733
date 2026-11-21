@@ -1,160 +1,104 @@
 <div align="center">
 
-# 👋 Hi, I'm Abid Hasan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E56CF&height=190&section=header&text=Abid%20Hasan&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%E2%80%A2%20Software%20Engineer%20in%20Progress&descSize=17&descAlignY=58" alt="Abid Hasan profile banner">
 
-### Computer Science Student · Problem Solver · Software Engineer in Progress
-
-<a href="https://abidhasan27.me">
-  <img src="https://img.shields.io/badge/Portfolio-abidhasan27.me-0A66C2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://www.linkedin.com/in/abid-hasan-592083282">
-  <img src="https://img.shields.io/badge/LinkedIn-Abid_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:abid.hasan.tng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Building+practical+software;Learning+through+hands-on+development;Turning+ideas+into+working+projects" alt="Typing introduction">
+<a href="https://abidhasan27.me"><img src="https://img.shields.io/badge/Portfolio-abidhasan27.me-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/abid-hasan-592083282"><img src="https://img.shields.io/badge/LinkedIn-Abid_Hasan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:abid.hasan.tng@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/hasan2733"><img src="https://komarev.com/ghpvc/?username=hasan2733&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile views"></a>
 
 </div>
 
----
+## About
 
-## 🚀 About Me
+Final-year Computer Science student focused on building reliable software across the full stack, from product UI and databases to embedded systems and IoT.
 
-I'm a final-year Computer Science student interested in software engineering, problem solving, artificial intelligence, and building technology that creates practical value.
+I learn through implementation, care about clean fundamentals, and enjoy turning practical ideas into complete projects. My current goal is to deepen my backend, systems, and problem-solving skills while growing into a well-rounded software engineer.
 
-I learn by building: from web applications and database systems to embedded IoT prototypes. My goal is to grow into a well-rounded software engineer with strong technical foundations, product awareness, and consistent execution.
-
-### Current interests
-
-- Data Structures & Algorithms
-- Web and full-stack development
-- Database design and SQL
-- Software engineering practices
-- Artificial Intelligence and Machine Learning
-- Computer Vision
-- Embedded Systems and IoT
-
-## 🌐 Portfolio
-
-Explore my work and learning journey at **[abidhasan27.me](https://abidhasan27.me)**.
-
-## 🧩 Featured Projects
-
-### [SafeTrail](https://github.com/hasan2733/SafeTrail)
-
-An ESP32-based embedded safety prototype focused on emergency response and personal protection.
-
-- GPS tracking and geofencing concepts
-- Fall detection and motion monitoring
-- Cloud data logging and emergency alert ideas
-- Hardware and software integration
-
-### [FindIt](https://github.com/hasan2733/FindIt) · [Live demo](https://findit-lost-n-found.vercel.app/)
-
-A front-end lost-and-found platform for campus and community use.
-
-- Lost and found item reporting
-- Search, filtering, and simulated matching
-- Claims workflow and safe exchange guidance
-- Built with HTML5, CSS3, and vanilla JavaScript
-
-### [AnotherPanicAttack](https://github.com/hasan2733/panic-support-website) · [Live demo](https://anotherpanicattack.web.app/)
-
-A personal support web app with practical tools for managing panic symptoms and building calm habits.
-
-- Firebase authentication and per-user data
-- Breathing, grounding, and reflection tools
-- Thought journal, learning library, and episode tracker
-- React, TypeScript, Vite, Tailwind CSS, and Firestore
-
-> This is a personal support tool, not medical advice. If you are in danger or need urgent help, contact local emergency services or a qualified professional.
-
-### [Movie Ticket Management System](https://github.com/hasan2733/movie_ticket_management_system)
-
-A JavaFX desktop application for movie booking and administration.
-
-- Movie and showtime management
-- QR-code ticket verification
-- PDF booking export
-- MySQL database integration
-
-### [Database Design](https://github.com/hasan2733/Database-Design)
-
-Database design practice covering normalization, ER modeling, relational schemas, and SQL.
-
-### [DSA Practice Problems](https://github.com/hasan2733/DSA_Practice_Problems)
-
-Algorithm and data-structure practice focused on problem solving, optimization, and interview preparation.
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Web, Backend & Desktop
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Tools & Data
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true" alt="Abid's GitHub statistics">
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true" alt="Abid's most used languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=hasan2733&theme=tokyonight&hide_border=true" alt="Abid's GitHub streak">
-
-</div>
-
-## 🎯 Current Focus
-
-- Completing my final-year studies
-- Building more impactful full-stack projects
-- Strengthening backend and database skills
-- Improving DSA and interview readiness
-- Exploring AI, ML, and product-driven engineering
-- Contributing to open-source projects
-
-## 💭 Developer Mindset
-
-```cpp
-while (!success) {
-    learn();
-    build();
-    improve();
-    repeat();
-}
+```text
+Design  -->  Implement  -->  Test  -->  Improve  -->  Repeat
 ```
 
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hasan2733/SafeTrail">SafeTrail</a></h3>
+      <p><b>ESP32 emergency and personal-safety prototype</b></p>
+      <p>Combines GPS tracking, geofencing concepts, fall detection, motion monitoring, and cloud-based alert ideas.</p>
+      <p><code>ESP32</code> <code>IoT</code> <code>GPS</code> <code>Cloud</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hasan2733/panic-support-website">AnotherPanicAttack</a> · <a href="https://anotherpanicattack.web.app/">Live</a></h3>
+      <p><b>Personal panic-management web application</b></p>
+      <p>Provides breathing and grounding tools, reflection, a thought journal, a learning library, and episode tracking.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Firestore</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hasan2733/FindIt">FindIt</a> · <a href="https://findit-lost-n-found.vercel.app/">Live</a></h3>
+      <p><b>Campus lost-and-found platform</b></p>
+      <p>Supports item reporting, search, filtering, simulated matching, claims, and safe exchange guidance.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/hasan2733/movie_ticket_management_system">Movie Ticket Management System</a></h3>
+      <p><b>Desktop ticketing and administration application</b></p>
+      <p>Includes movie and showtime management, QR verification, PDF ticket export, and MySQL integration.</p>
+      <p><code>JavaFX</code> <code>Java</code> <code>MySQL</code> <code>QR</code></p>
+    </td>
+  </tr>
+</table>
+
+### More Projects
+
+- **[Database Design](https://github.com/hasan2733/Database-Design)** — ER modeling, normalization, relational schemas, and SQL.
+- **[DSA Practice Problems](https://github.com/hasan2733/DSA_Practice_Problems)** — algorithms and data structures with a focus on efficiency and problem solving.
+
+## Tech Stack
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Core
 
-**Consistency beats talent when talent doesn't work consistently.**
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css&theme=dark" alt="Core programming languages and web technologies">
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,mysql,mongodb,firebase,git,github,vscode&theme=dark" alt="Frameworks, databases, and developer tools">
+
+</div>
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
+
+<img src="https://streak-stats.demolab.com?user=hasan2733&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub contribution streak">
+
+</div>
+
+## Currently Exploring
+
+- Full-stack application architecture and REST API design
+- Backend engineering and database optimization
+- Data structures and algorithms
+- Artificial intelligence, machine learning, and computer vision
+- Open-source collaboration and production-ready engineering practices
+
+<div align="center">
+
+### Let's Build Something Useful
+
+I am open to internships, collaborative projects, and opportunities to solve meaningful problems.
+
+<a href="https://abidhasan27.me"><img src="https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio"></a>
+<a href="mailto:abid.hasan.tng@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E56CF&height=110&section=footer" alt="Footer banner">
 
 </div>
