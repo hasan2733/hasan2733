@@ -94,7 +94,7 @@ Design  -->  Implement  -->  Test  -->  Improve  -->  Repeat
 
 ### Let's Build Something Useful
 
-I am open to internships, collaborative projects, and opportunities to solve meaningful projects.
+I am open to internships, collaborative projects, and opportunities to solve meaningful problems.
 
 <a href="https://abidhasan27.me"><img src="https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio"></a>
 <a href="mailto:abid.hasan.tng@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"></a>
