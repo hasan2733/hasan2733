@@ -75,8 +75,8 @@ Design  -->  Implement  -->  Test  -->  Improve  -->  Repeat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hasan2733&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan2733&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages">
 
 <img src="https://streak-stats.demolab.com?user=hasan2733&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub contribution streak">
 
@@ -94,7 +94,7 @@ Design  -->  Implement  -->  Test  -->  Improve  -->  Repeat
 
 ### Let's Build Something Useful
 
-I am open to internships, collaborative projects, and opportunities to solve meaningful problems.
+I am open to internships, collaborative projects, and opportunities to solve meaningful projects.
 
 <a href="https://abidhasan27.me"><img src="https://img.shields.io/badge/View_Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio"></a>
 <a href="mailto:abid.hasan.tng@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"></a>
